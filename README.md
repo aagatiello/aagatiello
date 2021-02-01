@@ -1,4 +1,4 @@
-### ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - :mortar_board: Soy estudiante de Ingenería Informática, actualmente en tercero
 - :books: En mis repositorios encontrarás mis prácticas y ejercicios hechos durante la carrera
