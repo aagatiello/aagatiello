@@ -1,6 +1,6 @@
 ## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- :woman_technologist: Currently working as a Data Engineer, trying to become a Data Scientist! 
+- :woman_technologist: Currently working as a Data Scientist in Naturgy! 
 - :mortar_board: Graduated with a Master's degree in Artificial Intelligence and a Bachelor's in Computer Science.
 - :speech_balloon: You can reach me on [LinkedIn](https://www.linkedin.com/in/agustinaagatiello/).
 
